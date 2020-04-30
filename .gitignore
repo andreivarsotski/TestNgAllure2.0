@@ -1,0 +1,9 @@
+**/.idea
+**/.allure
+**/target
+*/test-output
+*/build
+*/log
+**.iml
+*.iml
+**/*.iml
