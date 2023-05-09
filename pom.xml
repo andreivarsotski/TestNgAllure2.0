@@ -13,7 +13,7 @@
         <java.version>1.8</java.version>
         <encoding>UTF-8</encoding>
 
-        <testng>7.1.0</testng>
+        <testng>7.5.1</testng>
         <selenium>3.141.59</selenium>
         <selenide>5.11.1</selenide>
 
